@@ -1,0 +1,4 @@
+#Fri Dec 06 15:21:31 BRST 2019
+base.0=/Users/heversonbarbosaataide/Documents/Flutter_Workspace/app04_ListaTarefas/flutter_app04/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
